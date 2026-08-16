@@ -1,0 +1,18 @@
+I learned python basics from apna college youtube channel with this video link : 'https://youtu.be/q3AuP01daL4?si=nLc-_zrO13JwZWTY'
+Today i learned , 
+
+ print 
+ input 
+ variables
+ data types 
+ expression execution 
+ // operator
+ type casting 
+ string 
+ string functions 
+ operators ( arithmetic , relational , conditional assignment , logical )
+ range
+ loops
+ list , tuple , set , dictionary 
+ list indexing , slicing 
+
