@@ -15,4 +15,5 @@ Today i learned ,
  loops
  list , tuple , set , dictionary 
  list indexing , slicing 
-
+ Functions - checked module functions ( random , math )
+ 
