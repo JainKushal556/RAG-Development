@@ -16,4 +16,11 @@ Today i learned ,
  list , tuple , set , dictionary 
  list indexing , slicing 
  Functions - checked module functions ( random , math )
+ //16-08-2026 (SunDay)
+
+
+DAY 1 - CLI Project Done At Day2 
+//17-08-2026 (Monday)
+
+
  
