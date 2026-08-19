@@ -1,3 +1,7 @@
-a = [10,20,30,40,50,60,70]
+class s:
+    name = "Kushal "
+    def __int__(self,name):
+        self.name=name
+        self.fullname=name
 
-print(a[2:4 ])
+# print(s.)
