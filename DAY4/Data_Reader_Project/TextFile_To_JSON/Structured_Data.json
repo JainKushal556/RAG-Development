@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Rahul Sharma",
+        "Age": "21",
+        "Course": "Computer Science"
+    },
+    {
+        "Name": "Priya Roy",
+        "Age": "22",
+        "Course": "Data Science"
+    },
+    {
+        "Name": "Amit Sen",
+        "Age": "20",
+        "Course": "Electronics"
+    },
+    {
+        "Name": "Sneha Das",
+        "Age": "23",
+        "Course": "Cyber Security"
+    },
+    {
+        "Name": "Vikram Kumar",
+        "Age": "21",
+        "Course": "Information Technology"
+    }
+]
